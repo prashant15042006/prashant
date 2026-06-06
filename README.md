@@ -1,2 +1,1 @@
-# prashant
-my first project
+# Programming in C++
